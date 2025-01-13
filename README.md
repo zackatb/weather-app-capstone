@@ -20,4 +20,12 @@ This app utilizes the [Open-Meteo Weather API](https://open-meteo.com/) for fetc
 1. Clone the repository:
    ```bash
    npm i for installation
-   npm run start to run the code
+   npm run start for running the code
+
+  ## screenshots
+  DESKTOP
+![screencapture-localhost-3000-2025-01-13-22_40_22](https://github.com/user-attachments/assets/34168461-5247-4a22-8d70-a22d9eceb788)
+
+MOBILE
+![screencapture-localhost-3000-2025-01-13-22_49_23](https://github.com/user-attachments/assets/e93ca38f-8015-4621-817b-570ba1c4eb47)
+
